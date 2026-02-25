@@ -17,11 +17,5 @@ A fast-paced retro-style typing game built with **Vanilla JavaScript** and **HTM
 - JavaScript (ES6)
 - Web Audio API (Retro Sound Effects)
 
-## 🚀 Deployment
-You can host this easily using **GitHub Pages**:
-1. Upload these files to a new repository.
-2. Go to `Settings` > `Pages`.
-3. Select the `main` branch and click `Save`.
-
 ---
 Developed with ❤️ BY ABHAY GARG
