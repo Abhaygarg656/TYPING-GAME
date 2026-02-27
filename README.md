@@ -1,7 +1,7 @@
 # 🚀 typing game for website
 **Developed by Abhay Garg**
 
-A fast-paced, retro-style space typing game built with **Vanilla JavaScript** and **HTML5 Canvas**. Test your typing speed, accuracy, and reflexes to defend your base from incoming enemy words!
+A fast-paced, retro-style space typing game built with **JavaScript** and **HTML**. Test your typing speed, accuracy, and reflexes to defend your base from incoming enemy words!
 
 ---
 
