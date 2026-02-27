@@ -1,4 +1,4 @@
-# 🚀 typing game for website
+# 🚀 typing game
 **Developed by Abhay Garg**
 
 A fast-paced, retro-style space typing game built with **JavaScript** and **HTML**. Test your typing speed, accuracy, and reflexes to defend your base from incoming enemy words!
@@ -7,7 +7,7 @@ A fast-paced, retro-style space typing game built with **JavaScript** and **HTML
 
 ## 🎮 Gameplay Overview
 
-In **Z-Type Mission**, words fall from the top of the screen like enemy spacecraft. Your mission is to type the letters of each word to fire lasers and destroy them before they reach your base at the bottom.
+In ** type Mission**, words fall from the top of the screen like enemy spacecraft. Your mission is to type the letters of each word to fire lasers and destroy them before they reach your base at the bottom.
 
 ### Key Features:
 * **Dynamic Difficulty**: The game features a wave system where the speed and frequency of words increase as your score grows.
